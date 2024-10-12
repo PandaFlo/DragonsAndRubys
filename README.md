@@ -1,6 +1,6 @@
-# Dragons and Rubies Game
+# Dragons and Rubys Game
 
-**Dragons and Rubies** is a 2D game inspired by the classic Snake game. Players control a dragon that grows in size by collecting rubies scattered on the game board. The objective is to collect as many rubies as possible without crashing into the walls or the dragon’s own body. The game is built using Python and the `pygame` library for an interactive and fun experience.
+**Dragons and Rubys** is a 2D game inspired by the classic Snake game. Players control a dragon that grows in size by collecting rubies scattered on the game board. The objective is to collect as many rubies as possible without crashing into the walls or the dragon’s own body. The game is built using Python and the `pygame` library for an interactive and fun experience.
 
 ## Features
 
